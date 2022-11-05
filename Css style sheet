@@ -1,0 +1,32 @@
+<html> 
+<head>
+
+<tittle>
+My HTML and CSS Assignment
+</tittle>
+<stylesheet>
+body {
+background-color: grey;
+color:cyan;}
+div{
+color:magenta
+}
+</stylesheet>
+
+</head>
+<body>
+
+<H1> This is my assignment</><br>
+<ul>
+<li>School</li>
+<li>House</li>
+<liMarket</li>
+
+</ul>
+<p> I am doing my assignment now</p>
+
+<div>
+I am a man
+</div>
+</body>
+</html>
